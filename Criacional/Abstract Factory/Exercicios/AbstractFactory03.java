@@ -95,6 +95,7 @@ class FabricaDeElementosLinux implements FabricaDeElementos {
 }
 
 public class AbstractFactory03 {
+    //aqui é mais uma questão de teste mesmo
     public static FabricaDeElementos fabrica = new FabricaDeElementosLinux();
 
     public static void main(String[] args) {
