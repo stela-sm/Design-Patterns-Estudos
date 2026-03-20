@@ -12,8 +12,8 @@ Organizar exemplos práticos, exercícios e implementações de diferentes padr�
 
 A estrutura está organizada por categorias de padrões:
 
-Design Patterns
- └── Creational
+Design Patterns <br>
+ └── Creational <br>
      └── Factory Method -> feitos na aula
          ├── Exercicios -> Feitos em casa
          │    └── FactoryMethod01.java
@@ -26,7 +26,9 @@ Design Patterns
 
 
 📌 ENTREGÁVEIS 
+Atividade para o dia 06/03/26 -> Criacional / Abstract Factory / Exercicios (Arquivos 01, 02, 03 e 04)
 
+Atividade para o dia 20/03/26 -> Criacional / Builder / Exercicios (Arquivo 02) 
 
 
 🏗 Padrões e Arquiteturas
