@@ -25,7 +25,7 @@ Design Patterns <br>
 
 
 
-📌 ENTREGÁVEIS 
+📌 ENTREGÁVEIS <br><br>
 Atividade para o dia 06/03/26 -> Criacional / Abstract Factory / Exercicios (Arquivos 01, 02, 03 e 04)
 
 Atividade para o dia 20/03/26 -> Criacional / Builder / Exercicios (Arquivo 02) 
