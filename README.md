@@ -1,4 +1,4 @@
-📚 Estudo de Design Patterns
+#📚 Estudo de Design Patterns
 
 Este repositório contém os arquivos das aulas da disciplina Técnicas de Programação II, com foco no estudo e aplicação de Design Patterns e arquiteturas de software em Java.
 
