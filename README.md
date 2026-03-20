@@ -14,9 +14,9 @@ A estrutura está organizada por categorias de padrões:
 
 Design Patterns <br>
  └── Creational <br>
-     └── Factory Method -> feitos na aula
-         ├── Exercicios -> Feitos em casa
-         │    └── FactoryMethod01.java
+     └── Factory Method -> feitos na aula <br>
+         ├── Exercicios -> Feitos em casa <br>
+         │    └── FactoryMethod01.java <br>
          └── FactoryMethod01.java
 
 
