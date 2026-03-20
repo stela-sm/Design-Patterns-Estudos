@@ -30,20 +30,6 @@ Atividade para o dia 06/03/26 -> Criacional / Abstract Factory / Exercicios (Arq
 
 Atividade para o dia 20/03/26 -> Criacional / Builder / Exercicios (Arquivo 02) 
 
-
-🏗 Padrões e Arquiteturas
-
-
-Em breve serão adicionados:
-
-Outros padrões criacionais
-
-Padrões estruturais
-
-Padrões comportamentais
-
-Exemplos de arquiteturas (como MVC, camadas, etc.)
-
 💻 Tecnologias Utilizadas
 
 Java, Python e Javascript
